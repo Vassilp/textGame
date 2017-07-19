@@ -1,0 +1,11 @@
+C:\Users\vprimov\Documents\visual studio 2017\Projects\TryToGame\TryToGame\bin\release\netcoreapp1.1\win10-x64\hostpolicy.dll
+C:\Users\vprimov\Documents\visual studio 2017\Projects\TryToGame\TryToGame\bin\release\netcoreapp1.1\win10-x64\hostfxr.dll
+C:\Users\vprimov\Documents\visual studio 2017\Projects\TryToGame\TryToGame\bin\release\netcoreapp1.1\win10-x64\TryToGame.exe
+C:\Users\vprimov\Documents\visual studio 2017\Projects\TryToGame\TryToGame\bin\release\netcoreapp1.1\win10-x64\TryToGame.deps.json
+C:\Users\vprimov\Documents\visual studio 2017\Projects\TryToGame\TryToGame\bin\release\netcoreapp1.1\win10-x64\TryToGame.runtimeconfig.json
+C:\Users\vprimov\Documents\visual studio 2017\Projects\TryToGame\TryToGame\bin\release\netcoreapp1.1\win10-x64\TryToGame.runtimeconfig.dev.json
+C:\Users\vprimov\Documents\visual studio 2017\Projects\TryToGame\TryToGame\bin\release\netcoreapp1.1\win10-x64\TryToGame.dll
+C:\Users\vprimov\Documents\visual studio 2017\Projects\TryToGame\TryToGame\bin\release\netcoreapp1.1\win10-x64\TryToGame.pdb
+C:\Users\vprimov\Documents\visual studio 2017\Projects\TryToGame\TryToGame\obj\release\netcoreapp1.1\win10-x64\TryToGame.AssemblyInfo.cs
+C:\Users\vprimov\Documents\visual studio 2017\Projects\TryToGame\TryToGame\obj\release\netcoreapp1.1\win10-x64\TryToGame.dll
+C:\Users\vprimov\Documents\visual studio 2017\Projects\TryToGame\TryToGame\obj\release\netcoreapp1.1\win10-x64\TryToGame.pdb

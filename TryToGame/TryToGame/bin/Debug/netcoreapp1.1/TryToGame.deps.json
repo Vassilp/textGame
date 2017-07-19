@@ -1,0 +1,38 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "58db9e5fe8f0a86fae60c7a6daf3386282e53de1"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "trytogame/1.0.0": {
+        "dependencies": {
+          "Mono.Options": "5.3.0.1"
+        },
+        "runtime": {
+          "TryToGame.dll": {}
+        }
+      },
+      "mono.options/5.3.0.1": {
+        "runtime": {
+          "lib/netstandard1.3/Mono.Options.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "trytogame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "mono.options/5.3.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-irTJcHgEoQRf+otUaCqpMv8D4npzdWpsD3PcdPJoj/T0KkQJMKcSzlzaaELZlzu9IVAZl/lyuhEmaT4t43BBPA==",
+      "path": "mono.options/5.3.0.1",
+      "hashPath": "mono.options.5.3.0.1.nupkg.sha512"
+    }
+  }
+}
