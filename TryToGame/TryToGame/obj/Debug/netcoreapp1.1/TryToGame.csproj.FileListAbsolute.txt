@@ -7,3 +7,12 @@ c:\users\vprimov\documents\visual studio 2017\Projects\TryToGame\TryToGame\obj\D
 c:\users\vprimov\documents\visual studio 2017\Projects\TryToGame\TryToGame\obj\Debug\netcoreapp1.1\TryToGame.AssemblyInfo.cs
 c:\users\vprimov\documents\visual studio 2017\Projects\TryToGame\TryToGame\obj\Debug\netcoreapp1.1\TryToGame.dll
 c:\users\vprimov\documents\visual studio 2017\Projects\TryToGame\TryToGame\obj\Debug\netcoreapp1.1\TryToGame.pdb
+C:\Users\vprimov\Source\Repos\textGame\TryToGame\TryToGame\bin\Debug\netcoreapp1.1\TryToGame.deps.json
+C:\Users\vprimov\Source\Repos\textGame\TryToGame\TryToGame\bin\Debug\netcoreapp1.1\TryToGame.runtimeconfig.json
+C:\Users\vprimov\Source\Repos\textGame\TryToGame\TryToGame\bin\Debug\netcoreapp1.1\TryToGame.runtimeconfig.dev.json
+C:\Users\vprimov\Source\Repos\textGame\TryToGame\TryToGame\bin\Debug\netcoreapp1.1\TryToGame.dll
+C:\Users\vprimov\Source\Repos\textGame\TryToGame\TryToGame\bin\Debug\netcoreapp1.1\TryToGame.pdb
+C:\Users\vprimov\Source\Repos\textGame\TryToGame\TryToGame\obj\Debug\netcoreapp1.1\TryToGame.csprojResolveAssemblyReference.cache
+C:\Users\vprimov\Source\Repos\textGame\TryToGame\TryToGame\obj\Debug\netcoreapp1.1\TryToGame.AssemblyInfo.cs
+C:\Users\vprimov\Source\Repos\textGame\TryToGame\TryToGame\obj\Debug\netcoreapp1.1\TryToGame.dll
+C:\Users\vprimov\Source\Repos\textGame\TryToGame\TryToGame\obj\Debug\netcoreapp1.1\TryToGame.pdb
